@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yukta Arora — Personal Portfolio Website
 
 A fully responsive, accessible, multi-page personal portfolio website built with **HTML5**, **CSS3**, and **Vanilla JavaScript**.
@@ -103,3 +104,6 @@ AI Software Engineer | Generative AI Developer | NLP & RAG Enthusiast
 ## 📄 License
 
 This project is created for educational purposes as a college assignment.
+=======
+# TO-DO-LIST-
+>>>>>>> 277df08aa35304f5bf61de81b4af4e3ccbf8a224
